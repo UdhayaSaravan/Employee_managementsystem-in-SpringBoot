@@ -80,6 +80,5 @@ employee-management
 )
 ![DATABASE IN MYSQL](![MySql](https://github.com/user-attachments/assets/dab4fd81-84fe-418c-8a7e-e470bc2bc5e3)
 )
-
-
+---
 
